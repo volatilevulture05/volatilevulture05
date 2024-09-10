@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @volatilevulture05
-- 👀 I’m interested in bettering myself 
+- 👀 I’m interested in bettering myself and learning
 - 🌱 I’m currently learning HTML , CSS , Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on CSS and HTML projects
 - 📫 How to reach me here is good 
 - 😄 Pronouns: He / Him
 - ⚡ Fun fact: I used to work in the culinary field 
